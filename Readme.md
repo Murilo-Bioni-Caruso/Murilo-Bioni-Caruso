@@ -93,20 +93,6 @@ Caso tenha uma sugestão, melhoria nos meus projetos ou encontrou algum bug, fiq
 <table>
   <tr>
     <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=MuriTG25&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-        alt="Github stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriTG25&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"
-        alt="Github stats"
-      />
-    </td>
-    <td>
       <br />
       <img
         align="left"
@@ -126,7 +112,7 @@ Caso tenha uma sugestão, melhoria nos meus projetos ou encontrou algum bug, fiq
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=MuriTG25&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      ssrc="https://github-profile-trophy.vercel.app/?username=Murilo-Bioni-Caruso&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
@@ -136,8 +122,8 @@ Caso tenha uma sugestão, melhoria nos meus projetos ou encontrou algum bug, fiq
 </div>
 
 <p align="center">
-  <img
-    src="https://profile-counter.glitch.me/MuriTG25/count.svg"
-    alt="Ilustração do número de visitantes no perfil"
-  />
+    <div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/Murilo-Bioni-Caruso"/>  
+    </div>
 </p>
