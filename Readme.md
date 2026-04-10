@@ -7,9 +7,9 @@ Tenho 31 anos, moro em Salto, interior de São Paulo e sou <strong>Desenvolvedor
 
 <strong>Formado na Alura</strong> em cursos de programação focado para o Android nativo em Kotlin e com outros cursos, atualmente sou estudante de <strong>Análise e Desenvolvimento de Sistemas na Fatec Indaiatuba</strong>.
 
-Atualmente estou estudando PHP com Laravel.
+Atualmente estou estudando Front End com Javascript com React
 
-Esse espaço serve para colocar meus projetos de aplicativos em Android, de outras plataformas e de portfólio.
+Esse espaço serve para colocar meus projetos Mobile, Front End e Backend em várias linguagens.
 
 Caso tenha uma sugestão, melhoria nos meus projetos ou encontrou algum bug, fique a vontade para fazer um <strong> pull request</strong>.
 </br>
@@ -29,6 +29,8 @@ Caso tenha uma sugestão, melhoria nos meus projetos ou encontrou algum bug, fiq
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 <p align="left">
 
@@ -67,6 +69,15 @@ Caso tenha uma sugestão, melhoria nos meus projetos ou encontrou algum bug, fiq
 ![Mockk](https://img.shields.io/badge/Mockk-fe1097?style=for-the-badge&logo=android&logoColor=white)
 ![Compose Test](https://img.shields.io/badge/Compose_Test-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![UI Automator](https://img.shields.io/badge/UI_Automator-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Arquitetura MVC](https://img.shields.io/badge/Arquitetura_MVC-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Router Dom](https://img.shields.io/badge/React_Router_DOM-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaFX](https://img.shields.io/badge/JavaFX-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
