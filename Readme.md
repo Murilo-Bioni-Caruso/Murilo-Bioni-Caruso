@@ -96,7 +96,7 @@ Caso tenha uma sugestão, melhoria nos meus projetos ou encontrou algum bug, fiq
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=MuriTG25&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Murilo-Bioni-Caruso&theme=dark&hide_border=false"
         alt="Github stats"
       />
     </td>
