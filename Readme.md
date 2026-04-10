@@ -7,7 +7,7 @@ Tenho 31 anos, moro em Salto, interior de São Paulo e sou <strong>Desenvolvedor
 
 <strong>Formado na Alura</strong> em cursos de programação focado para o Android nativo em Kotlin e com outros cursos, atualmente sou estudante de <strong>Análise e Desenvolvimento de Sistemas na Fatec Indaiatuba</strong>.
 
-Atualmente estou estudando Front End com Javascript com React
+Atualmente estou estudando Front End com Javascript e React
 
 Esse espaço serve para colocar meus projetos Mobile, Front End e Backend em várias linguagens.
 
